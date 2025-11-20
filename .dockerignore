@@ -1,0 +1,14 @@
+*
+
+# But include necessary files for building
+!mvnw
+!mvnw.cmd
+!pom.xml
+!.mvn/
+!src/
+
+
+!target/*-runner
+!target/*-runner.jar
+!target/lib/*
+!target/quarkus-app/*
